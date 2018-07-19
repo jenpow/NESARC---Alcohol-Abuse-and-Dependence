@@ -11,4 +11,4 @@ This repository is about the association between the age when started drinking a
 Also I would like to further investigate if there are correlation between the age when started drinking and if blood/natural mother or father
 ever was an alcoholic or problem drinker.
 
-
+For more information please have a look at the other files "Codebook" and "Research Questions" in this repository.
